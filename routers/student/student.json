@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": 1,
+    "student_name": "Ranjeev",
+    "student_address": "Pune",
+    "student_phone": "123445657"
+  },
+  {
+    "student_id": 2,
+    "student_name": "Ayush",
+    "student_address": "Chh. Sambhajinagar",
+    "student_phone": "89764445"
+  },
+  {
+    "student_id": 3,
+    "student_name": "Gitanjali",
+    "student_address": "Mumbai",
+    "student_phone": "538263638"
+}
+]

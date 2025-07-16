@@ -1,0 +1,81 @@
+[2025-06-22 12:09:00,631] [__main__] INFO : This is my first logging
+[2025-06-22 12:09:07,959] [__main__] INFO : This is my first logging
+[2025-06-22 12:09:10,183] [__main__] INFO : This is my first logging
+[2025-06-27 22:49:43,646] [__main__] INFO : This is my first logging
+[2025-06-27 22:49:48,038] [__main__] INFO : This is my first logging
+[2025-06-27 22:49:49,081] [__main__] INFO : This is my first logging
+[2025-06-27 22:49:50,122] [__main__] INFO : This is my first logging
+[2025-06-27 22:49:51,105] [__main__] INFO : This is my first logging
+[2025-06-27 23:53:44,085] [main] INFO : School Backend application is getting started
+[2025-06-28 00:08:02,674] [main] INFO : School Backend application is getting started
+[2025-06-28 00:13:24,005] [main] INFO : School Backend application is getting started
+[2025-06-28 00:14:09,977] [main] INFO : School Backend application is getting started
+[2025-06-28 00:15:06,630] [main] INFO : School Backend application is getting started
+[2025-06-28 00:15:26,960] [main] INFO : School Backend application is getting started
+[2025-06-28 00:19:19,340] [main] INFO : School Backend application is getting started
+[2025-06-28 15:24:27,957] [main] INFO : School Backend application is getting started
+[2025-06-28 15:24:46,720] [main] INFO : School Backend application is getting started
+[2025-06-28 15:27:09,100] [main] INFO : School Backend application is getting started
+[2025-06-28 15:37:18,176] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:37:18,176] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:37:18,185] [main] INFO : School Backend application is getting started
+[2025-06-28 15:38:49,911] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:38:49,912] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:38:49,923] [main] INFO : School Backend application is getting started
+[2025-06-28 15:40:44,743] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:40:44,744] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:40:44,750] [main] INFO : School Backend application is getting started
+[2025-06-28 15:40:54,885] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:40:54,886] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:40:54,893] [main] INFO : School Backend application is getting started
+[2025-06-28 15:41:19,891] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:41:19,895] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:41:19,948] [main] INFO : School Backend application is getting started
+[2025-06-28 15:44:00,508] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:44:00,509] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:44:00,517] [main] INFO : School Backend application is getting started
+[2025-06-28 15:47:30,216] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-28 15:47:30,217] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-28 15:47:30,230] [main] INFO : School Backend application is getting started
+[2025-06-29 12:33:20,719] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 12:33:20,720] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 12:33:20,735] [main] INFO : School Backend application is getting started
+[2025-06-29 12:38:30,006] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 12:38:30,007] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 12:38:30,014] [main] INFO : School Backend application is getting started
+[2025-06-29 12:40:05,723] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 12:40:05,724] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 12:40:05,732] [main] INFO : School Backend application is getting started
+[2025-06-29 12:40:13,090] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 12:40:13,090] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 12:40:13,097] [main] INFO : School Backend application is getting started
+[2025-06-29 12:40:29,042] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 12:40:29,043] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 12:40:29,049] [main] INFO : School Backend application is getting started
+[2025-06-29 15:28:03,090] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-29 15:28:03,091] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-29 15:28:03,103] [main] INFO : School Backend application is getting started
+[2025-06-30 20:27:53,830] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 20:27:53,831] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 20:27:53,832] [main] INFO : School Backend application is getting started
+[2025-06-30 20:31:05,453] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 20:31:05,454] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 20:31:05,454] [main] INFO : School Backend application is getting started
+[2025-06-30 20:31:50,569] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 20:31:50,570] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 20:31:50,570] [main] INFO : School Backend application is getting started
+[2025-06-30 20:34:53,121] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 20:34:53,122] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 20:34:53,123] [main] INFO : School Backend application is getting started
+[2025-06-30 22:05:28,598] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 22:05:28,599] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 22:05:28,600] [main] INFO : School Backend application is getting started
+[2025-06-30 22:08:00,781] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-06-30 22:08:00,782] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-06-30 22:08:00,783] [main] INFO : School Backend application is getting started
+[2025-07-08 19:02:44,777] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-07-08 19:02:44,778] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-07-08 19:02:44,778] [main] INFO : School Backend application is getting started
+[2025-07-08 19:09:37,901] [routers.student.get_students] INFO : Request Received to get all student info
+[2025-07-08 19:09:37,902] [routers.student.get_students] INFO : Request Received to get all student by id
+[2025-07-08 19:09:37,902] [main] INFO : School Backend application is getting started

@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+starlette
+pydentic
+sqlalchemy
+pymysql
+cryptography
+
